@@ -1,0 +1,43 @@
+.summary-wrapper {
+  padding: 22px;
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  border-radius: 14px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.summary-heading {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.summary-image {
+  width: 350px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.summary-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #111;
+  margin-bottom: 10px;
+}
+
+.summary-text {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.summary-link {
+  font-weight: bold;
+  font-size: 16px;
+  color: #ff5722;
+  text-decoration: none;
+}

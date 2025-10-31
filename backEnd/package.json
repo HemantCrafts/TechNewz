@@ -1,0 +1,14 @@
+{
+  "name": "news-backend",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "latest",
+    "axios": "^1.6.0",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.3",
+    "node-fetch": "^2.7.0",
+    "openai": "^6.7.0"
+  }
+}
